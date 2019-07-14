@@ -1,2 +1,5 @@
 # Suicide_Ideation
- Pre-processed the data after collecting from two the sub reddits:  r/SuicideWatch and r/mentalhealth.  Implemented three types of Naive Bayes classifiers:  Gaussian, Multinomial & Bernoulli.
+ 
+
+For more description about the project read the "Project_Report" file under "Documentation" directory.
+Compile and Build instructions are also described in the Project_Report.
